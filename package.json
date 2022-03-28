@@ -1,0 +1,16 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "Basic Javascript CRUD ",
+  "main": "BookForm.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 1234"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
